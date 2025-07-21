@@ -30,4 +30,10 @@ Achieved **98.7% accuracy** using **Random Forest**, even with imbalanced data!
 ---
 
 ## 📈 Classification Report
+          precision    recall  f1-score   support
+
+       0       0.99      1.00      0.99       895
+       1       0.99      0.91      0.95       105
+
+accuracy                           0.99      1000
 
